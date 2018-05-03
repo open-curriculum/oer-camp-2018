@@ -2,6 +2,8 @@
 
 # OER Camp 2018
 
+**Social:** \#OERCamp2018
+
 ## Morning Schedule
 
 **9 - 9:30am:** Coffee coffee bagel time
