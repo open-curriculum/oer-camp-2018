@@ -38,5 +38,7 @@ Attendees with visit working stations to get their OER published. Each station i
 1. Show and tell
 2. Closing remarks
 
+---
+OER Camp 2018 made possible with funding from the [Penn State Center for Pedagogy in Art and Design](http://sites.psu.edu/cpadcpad/) Discovery Grant.
 
 
