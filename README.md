@@ -25,7 +25,9 @@ Presentation from Julie Lang and Amanda Larson
 5. [Publishing OER with Git Pages](/publishing-oer.md)
 6. [Post link to your OER on Google Doc](https://docs.google.com/document/d/1PEkXCk4XSpHeBPPR5kdquSbBGAF3CjO_Rls6am3tJv4/edit)
 
-**12:00 - 1:00pm:** Lunch
+## Lunch
+
+**12:00 - 1:00pm:** Irvings catering
 
 ## Afternoon Schedule
 
@@ -39,6 +41,6 @@ Attendees with visit working stations to get their OER published. Each station i
 2. Closing remarks
 
 ---
-OER Camp 2018 made possible with funding from the [Penn State Center for Pedagogy in Arts & Design](http://sites.psu.edu/cpadcpad/) Discovery Grant.
 
+OER Camp 2018 made possible with funding from the [Penn State Center for Pedagogy in Arts & Design](http://sites.psu.edu/cpadcpad/) Discovery Grant.
 
