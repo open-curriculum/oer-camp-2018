@@ -4,7 +4,7 @@
 * Tutorials
   * [Get started with HAX](get-started-with-hax.md)
   * Authoring OER with HAX
-  * Creative Commons Licensing
+  * [Creative Commons Licensing](creative-commons-licensing.md)
   * [Create a Github Account](create-a-github-account.md)
   * [Publishing OER](publishing-oer.md)
 
