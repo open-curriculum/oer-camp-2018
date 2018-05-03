@@ -16,11 +16,11 @@ Presentation from Julie Lang and Amanda Larson
 
 **11:00 - 11:30am:** Follow along interactive OER demo
 
-1. Get started with HAX \(add linked tutorial\)
-2. Authoring OER with HAX \(add linked tutorial\)
-3. Creative Commons Licensing
-4. Create a Github Account \(add tutorial\)
-5. Publishing OER with Git Pages
+1. [Get started with HAX](/get-started-with-hax.md)
+2. [Authoring OER with HAX](/authoring-oer-with-hax.md)
+3. [Creative Commons \(CC\) Licensing](/creative-commons-licensing.md)
+4. [Create a Github Account](/create-a-github-account.md)
+5. [Publishing OER with Git Pages](/publishing-oer.md)
 6. [Post link to your OER on Google Doc](https://docs.google.com/document/d/1PEkXCk4XSpHeBPPR5kdquSbBGAF3CjO_Rls6am3tJv4/edit)
 
 **12:00 - 1:00pm:** Lunch
