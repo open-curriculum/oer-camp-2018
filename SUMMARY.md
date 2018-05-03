@@ -1,7 +1,7 @@
 # Summary
 
 * [OER Camp 2018 Schedule](README.md)
-* [Stations](stations.md)
+* [Work Stations](stations.md)
 * Tutorials
   * [Get started with HAX](get-started-with-hax.md)
   * [Authoring OER with HAX](authoring-oer-with-hax.md)
