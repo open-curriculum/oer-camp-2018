@@ -37,7 +37,7 @@ Presentation from Julie Lang and Amanda Larson
 
 Attendees with visit working stations to get their OER published. Each station is staffed with experts to assist with overcoming challenges.
 
-**3:00pm:** Wrap up
+**3:00 - 3:45pm:** Wrap up
 
 1. Show and tell
 2. Closing remarks
