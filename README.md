@@ -46,3 +46,5 @@ Attendees with visit working stations to get their OER published. Each station i
 
 OER Camp 2018 made possible with funding from the [Penn State Center for Pedagogy in Arts & Design](http://sites.psu.edu/cpadcpad/) Discovery Grant.
 
+[http://oerschema.org](http://oerschema.org)
+
