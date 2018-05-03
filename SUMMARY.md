@@ -6,5 +6,5 @@
   * [Authoring OER with HAX](authoring-oer-with-hax.md)
   * [Creative Commons Licensing](creative-commons-licensing.md)
   * [Create a Github Account](create-a-github-account.md)
-  * [Publishing OER](publishing-oer.md)
+  * [Publishing OER with Git Pages](publishing-oer.md)
 
