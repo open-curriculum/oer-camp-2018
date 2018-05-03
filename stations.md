@@ -1,8 +1,9 @@
-# Stations
+# Work Stations
 
 Each station ...
 
 ## Station 1: Publish Station 
+
 
 - GitHub Account/download \(if using desktop\) 
 - Turn on git pages 
