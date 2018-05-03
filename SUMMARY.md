@@ -3,7 +3,7 @@
 * [OER Camp 2018 Schedule](README.md)
 * Tutorials
   * [Get started with HAX](get-started-with-hax.md)
-  * Authoring OER with HAX
+  * [Authoring OER with HAX](authoring-oer-with-hax.md)
   * [Creative Commons Licensing](creative-commons-licensing.md)
   * [Create a Github Account](create-a-github-account.md)
   * [Publishing OER](publishing-oer.md)
