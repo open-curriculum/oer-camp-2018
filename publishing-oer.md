@@ -1,5 +1,7 @@
 # Publishing OER with Git Pages
 
+Git Pages requires some setup, but it's worth the hassle because it's good and **free web hosting!** The following directions will help you to export a `docs` folder from HAX, push your changes from the GitHub desktop app to the repo, enable Git Pages, tell it to read from the `/docs` folder, add a `.nojekyll` file to the directory. Let's do this, step by step.
+
 ## Exporting from HAX
 
 1. Once you are finished editing, click on the back arrow, to take you to "Recent Projects". ![generate build](/assets/Screen Shot 2018-05-14 at 5.30.56 PM.png)
