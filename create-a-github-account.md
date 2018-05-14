@@ -1,6 +1,6 @@
-# Working with Github
+# Getting started with Github
 
-## Create a Github Account
+## Create a Github account
 
 1. Go to http://github.com.
 2. Create a user name and password:  
