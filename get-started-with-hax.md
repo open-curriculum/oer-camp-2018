@@ -34,3 +34,4 @@ To open the page editing tools, click in the empty white area. **Note:** To add 
 2. Type the title. Choose the text style icon from the floating tool bar. Choose "Heading." ![heading style](/assets/Screen Shot 2018-05-14 at 4.38.42 PM.png)
 3. Click the close (x) button on the floating toolbar. You will now see title styling applied: ![formatted title](/assets/Screen Shot 2018-05-14 at 4.38.46 PM.png)
 4. Of course, the easy way is to simply use the "Heading" icon.
+5. Click the green floppy disk icon on the bottom right to save the page.
