@@ -11,8 +11,9 @@
 6. Select "Initialize this repository with a README" and click "Create repository": ![Create repository](/assets/Screen Shot 2018-05-14 at 11.32.24 AM.png)
 7. Your repo will look like this: ![repo front page](/assets/Screen Shot 2018-05-14 at 11.32.52 AM.png)
 
-## Sync the repo with your computer
+## Clone the Github repo with your computer
 
 1. Click on "Clone or Download", then choose "Open in Desktop": ![Download repo to desktop](/assets/Screen Shot 2018-05-14 at 11.33.01 AM.png)
-2. If you don't already have Github's desktop app installed, you will need to install it now. You will be redirected to the download page: ![](/assets/Screen Shot 2018-05-14 at 11.33.07 AM.png)
-3. The Desktop will ask you for a location on your desktop to save to. Choose a folder, and click save. ![](/assets/Screen Shot 2018-05-14 at 1.13.17 PM.png)
+2. If you don't already have Github's desktop app installed, you will need to install it now. You will be redirected to the download page: ![download github desktop app page](/assets/Screen Shot 2018-05-14 at 11.33.07 AM.png)
+3. The Desktop will ask you for a location on your desktop to save to. Choose a folder in "local path", and click "Clone". ![choose a local folder](/assets/Screen Shot 2018-05-14 at 1.25.52 PM.png)
+4. Congrats! You now have a cloned Github repository. ![Github desktop app repo view](/assets/Screen Shot 2018-05-14 at 1.13.17 PM.png)
