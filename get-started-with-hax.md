@@ -24,3 +24,13 @@ HAX is very much like MS Word, or other word processing software, with one big d
 ![Edit Outline](/assets/Screen Shot 2018-05-14 at 4.25.03 PM.png)
 2. Enter the title of the page. If the page should be nested, you can use the arrow icons, or use the tab key. Click the floppy disk icon to the top left save.
 ![Edit outline](/assets/Screen Shot 2018-05-14 at 4.26.35 PM.png)
+
+### Adding a page title
+
+To open the page editing tools, click in the empty white area. **Note:** To add an element, you must not be in outline edit mode.
+
+1. Choose the Text Icon from the toolbar. 
+![text icon](/assets/Screen Shot 2018-05-14 at 4.38.32 PM.png)
+2. Type the title. Choose the text style icon from the floating tool bar. Choose "Heading." ![heading style](/assets/Screen Shot 2018-05-14 at 4.38.42 PM.png)
+3. Click the close (x) button on the floating toolbar. You will now see title styling applied: ![formatted title](/assets/Screen Shot 2018-05-14 at 4.38.46 PM.png)
+4. Of course, the easy way is to simply use the "Heading" icon.
