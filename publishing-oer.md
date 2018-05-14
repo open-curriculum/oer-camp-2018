@@ -2,9 +2,14 @@
 
 ## Exporting from HAX
 
-1. Once you are finished editing, click on the back arrow, to take you to "Recent Projects".
-2. Click on "Generate build" to export the content into a folder, called docs.
-3. 
+1. Once you are finished editing, click on the back arrow, to take you to "Recent Projects". ![generate build](/assets/Screen Shot 2018-05-14 at 5.30.56 PM.png)
+2. Under the right "more" menu (3 dots), click on "Generate build" to export the content into a folder, called `docs`: ![generate build button](/assets/Screen Shot 2018-05-14 at 12.05.41 PM.png)
+3. The docs folder will look like this: ![docs](/assets/Screen Shot 2018-05-14 at 5.42.17 PM.png)
+4. Open GitHub Desktop App, and commit the changes.
+![First commit](/assets/Screen Shot 2018-05-14 at 12.08.34 PM.png)
+5. Now push the changes to GitHub
+6. Your GitHub repo should look like this:
+![repo directory](/assets/Screen Shot 2018-05-14 at 5.51.51 PM.png)
 
 ## Enabling Git Pages
 
@@ -21,4 +26,5 @@
 2. Scroll down and click on Commit new file: ![Create new file](/assets/Screen Shot 2018-05-14 at 12.20.48 PM.png)
 3. You now have your directory set up properly. [See this example](https://github.com/virtual-michael-collins/oer-writing-assignment):
 ![properly configured directory](/assets/Screen Shot 2018-05-14 at 3.17.03 PM.png)
+4. Congrats! It can take a few minutes for the website to resolve. Visit the Git Pages URL to see if everything worked properly.
 
