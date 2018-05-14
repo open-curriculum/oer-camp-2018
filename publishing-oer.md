@@ -8,6 +8,7 @@
 4. Open GitHub Desktop App, and commit the changes.
 ![First commit](/assets/Screen Shot 2018-05-14 at 12.08.34 PM.png)
 5. Now push the changes to GitHub
+![push](/assets/Screen Shot 2018-05-14 at 12.10.00 PM.png)
 6. Your GitHub repo should look like this:
 ![repo directory](/assets/Screen Shot 2018-05-14 at 5.51.51 PM.png)
 
