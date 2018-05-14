@@ -14,6 +14,6 @@
 ## Clone the Github repo to your computer
 
 1. Click on "Clone or Download", then choose "Open in Desktop": ![Download repo to desktop](/assets/Screen Shot 2018-05-14 at 11.33.01 AM.png)
-2. If you don't already have Github's desktop app installed, you will need to install it now. You will be redirected to the download page: ![download github desktop app page](/assets/Screen Shot 2018-05-14 at 11.33.07 AM.png)
-3. The Desktop will ask you for a location on your desktop to save to. Choose a folder in "local path", and click "Clone". ![choose a local folder](/assets/Screen Shot 2018-05-14 at 1.25.52 PM.png)
+2. If you don't already have Github's desktop app installed, you will need to install it now. You will be redirected to the [download page](https://desktop.github.com): ![download github desktop app page](/assets/Screen Shot 2018-05-14 at 11.33.07 AM.png)
+3. After installation, you may have to repeat step one. The Desktop will ask you for a location on your desktop to save to. Choose a directory on your computer in "local path", and click "Clone". ![choose a local folder](/assets/Screen Shot 2018-05-14 at 1.25.52 PM.png)
 4. Congrats! You now have a cloned Github repository. ![Github desktop app repo view](/assets/Screen Shot 2018-05-14 at 1.13.17 PM.png)
