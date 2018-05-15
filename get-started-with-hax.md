@@ -1,6 +1,8 @@
 # Get Started with HAX
 
-Download Folder: https://psu.app.box.com/folder/49121052825
+MacOS: https://psu.box.com/s/phghswxfrj3arlic1ts9jawx4wny91oq
+
+Windows: https://psu.box.com/s/3keuh423pg7wmncjbgcshh7i3azs91jn
 
 ## Installing Hax on macOS
 
