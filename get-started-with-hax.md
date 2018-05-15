@@ -1,5 +1,7 @@
 # Get Started with HAX
 
+Download Folder: https://psu.app.box.com/folder/49121052825
+
 ## Installing Hax on macOS
 
 1. Open the HAX App `.zip` file.
