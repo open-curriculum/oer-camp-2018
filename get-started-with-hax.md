@@ -1,8 +1,8 @@
 # Get Started with HAX
 
-MacOS: https://psu.box.com/s/phghswxfrj3arlic1ts9jawx4wny91oq
+MacOS Download (~150MB): https://psu.box.com/s/phghswxfrj3arlic1ts9jawx4wny91oq
 
-Windows: https://psu.box.com/s/3keuh423pg7wmncjbgcshh7i3azs91jn
+Windows Download (~150MB): https://psu.box.com/s/3keuh423pg7wmncjbgcshh7i3azs91jn
 
 ## Installing Hax on macOS
 
