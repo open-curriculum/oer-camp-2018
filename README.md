@@ -8,7 +8,7 @@
 
 **9 - 9:30am:** Coffee coffee bagel time
 
-**9:30 - 9:45am:** Introduction to Workshop
+**9:30 - 9:45am:** [Introduction to Workshop](https://docs.google.com/presentation/d/e/2PACX-1vTwea0kksdubWjVRqxFwsGPElRuBeDM3C66TsOH7pBWKZEAsE6xwelwmHD_6iL_vjOqkuFhfhNeWo8h/pub?start=false&loop=false&delayms=3000)
 
 Michael Collins and Katrina Wehr
 
