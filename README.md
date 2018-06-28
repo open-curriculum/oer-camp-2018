@@ -42,6 +42,10 @@ Attendees with visit working stations to get their OER published. Each station i
 1. Show and tell
 2. Closing remarks
 
+## Camper publishing experiments
+
+[Google Doc Link](https://docs.google.com/document/d/1PEkXCk4XSpHeBPPR5kdquSbBGAF3CjO_Rls6am3tJv4/edit?usp=sharing)
+
 ---
 
 OER Camp 2018 made possible with funding from the [Penn State Center for Pedagogy in Arts & Design](http://sites.psu.edu/cpadcpad/) Discovery Grant.
